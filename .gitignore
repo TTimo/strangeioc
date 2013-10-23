@@ -8,3 +8,5 @@ Thumbs.db
 test-results/*
 Temp/*
 strange-csharp.userprefs
+*.meta
+
